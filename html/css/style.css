@@ -42,6 +42,11 @@ p {
 
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 ol {
 	margin-left: 30px;
 }
@@ -136,6 +141,44 @@ footer small {
 	display: block;
 }
 
-.cog-i-cogicon__cog {
-	visibility: hidden !important;
+.cognito {
+	height: 380px;
+	overflow: hidden;
+}
+
+#tenho-interesse {
+	background-color: #f6f7f8;
+	width: 100%;
+}
+
+@media (max-height: 600px) {
+	nav {
+		width: 50vw;
+
+	}
+
+	article {
+		width: 70vw;
+	}
+
+	.coluna {
+		width: 50vw;
+		min-width: unset;
+	}
+
+
+}
+
+
+
+@media (max-height: 425px) {
+
+	nav,
+	article,
+	.coluna {
+		width: 100%;
+		min-width: 320px;
+	}
+
+
 }
