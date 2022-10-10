@@ -36,3 +36,4 @@
     - Post para redes sociais: url texto +foto+ curta.
     - Incluir hospedagem. (servidor web).
     - Git - histórico de evolução. (commits detalhados). 
+
