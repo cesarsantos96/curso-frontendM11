@@ -59,3 +59,70 @@ Algoritimo
 ### Torre de Hanoi 
 
     - Mover todos os discos para a direita, com o menos número de movimentos possível, sem colocar um disco em cima de um disco menos: https://somatematica.com.br/jogos/hanoi *Jogos que ajudam o raciocínio lógico.*
+
+    -Jogos : https://somatematica.com.br/jogos.php
+
+## Funcionalidade gerais
+
+    - Criar algoritimos e programas para executar no navedor: client side;
+    - Manipular o DOM: elementos HTML, eventos, estilos;
+    - Node.js: framework JS para back-end / runtime em JS;
+    - Mongo.db: GraphQL: banco de dados em JS;
+    - React / Vue.js / Angular: frameworks js para desenvolvimento mobile;
+    - React Native: framework JS para desenvolvimento mobile;
+
+    - recebe e manipular dados;
+    - tomar decisões baseados na lógica computacional;
+    - loop e interações;
+    - condições de saídas;
+
+
+### Executar o JS 
+   
+    - Console browser;
+    - Editores: Sublime, Visual Studio Code;
+    - JS fiddle https://jsfiddle.net 
+
+## Variáveis
+    São utlizadas para referenciar espaço na mamória.
+
+    - Var;
+    - const; (fica com valor imutável)
+    - let;
+    - string (tipo de variável para conjunto de caracteres);
+    - tipagem: númeor ou string
+    - array;
+    - length (usado para contar os espaçøs das variaveis);
+
+## Operadores
+
+    - Soma + 
+    - Subtração -
+    - Multiplicar *
+    - Dividir /
+    - Módulo (resto da divisão) %
+    - Math random(), round(), sqrt()
+
+
+* Atribuição
+
+a =  b
+a += b
+a -= b
+a *= b
+a /= b
+a %= b 
+Adiciona 1++ 
+Subtrai 1-- 
+
+* Operadores de Comparação / Lógicos 
+
+    - Igual == ou === 
+    - Diferente != 
+    - Maior que  > 
+    - Menor que  <
+    - Maior ou igual >=
+    - Menor ou igual <=
+
+    https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators 
+
